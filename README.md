@@ -1,5 +1,4 @@
-# quiz_app
-Quiz coordinator application 
+# Quiz coordinator application 
 
 Steps to install:
 - create separate personal_workspace directory
